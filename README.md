@@ -1,1 +1,0 @@
-# springboot-gradle-docker-jenkins-aws
